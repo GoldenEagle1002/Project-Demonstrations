@@ -1,0 +1,13 @@
+# covert_channel
+- Project was done at internship ACE in collaboration with two group mates
+- Had three days to complete project and write techical report on it
+- Operating Instructions
+    - Compiled Binaries have already been made called server and client
+        - These were compiled using gcc on a Linux system
+    - Server must be started first with ./server
+    - Then client must be run with ./client #### where the # is the binary message you wish to send covertly
+    - The message will then send and be recieved by the server the user must then enter q in the terminal to indicate they would like to end the program which will output the results into the output.txt file
+- Limitations: Due to limited development time this project is very much a prototype with lots of unimplmented features and limitations
+    - Currently just works on one computer between two process as the connection addresses are hard programed to 127.0.0.1
+    - Must be ran on a Unix system as windows has a different socket setup
+    - When the packets are examined in Wireshark it will say invalid checksum. After research we determined this was because the data never left the actual computer and therefore wasn't assigned a checksum. This coud be fixed by implmented a fix for the first listed limitation
