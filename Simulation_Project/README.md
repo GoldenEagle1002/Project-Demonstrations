@@ -238,7 +238,11 @@ Sometimes the drone will appear to instantly complete the delivery if the simula
 
 Faster drones can sometimes overshoot their delivery point slightly slowing them down
 
+Where work was done
 
+Largest spot to look for changes in under libs/transit/src/ 
+
+Almost all the files in that folder were either made or modified by my partner and I
 
 Sprint **retrospective**
 

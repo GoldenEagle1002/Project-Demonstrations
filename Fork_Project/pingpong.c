@@ -1,8 +1,6 @@
 //Caleb Sannes 
 //ID: 5715662
 //sanne118
-//Assignment 1
-//1 day extension given
 
 //include depedencies shouldn't be much more than strings.h probably
 #include <signal.h>

@@ -13,3 +13,5 @@ So far 3 projects are in shown in this repository
     - A project where my group partner and I worked to extend a large drone delivery simulation repostiory with additional features. 
 
 More information is in each projects README files
+
+- Note none of the material here is copyrighted or lisensend. The part of the simulation project's repository that we did not create we were told that we could use for job and grad school applications. 
