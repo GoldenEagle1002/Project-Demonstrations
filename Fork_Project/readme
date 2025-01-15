@@ -1,0 +1,21 @@
+Caleb Sannes 
+ID: 5715662
+sanne118
+Assignment 1
+1 day extension given
+
+- Compiling and Running the Program
+    - The command used to compile pingpong.c was 
+        - gcc pingpong.c -o pingpong 
+    - To then run the program the following command was used
+        - ./pingpong # (where # is the desired limit for the program)
+            -note that the program will exit if more than or less than 1 argument i given
+
+- Assumptions
+    - That the limit for pingpong.c should be reached and written to the file before the process teriminates rather than reach and then not written. Basically the difference between < and <= where I assumped that we should use <=. 
+
+- Known Errors 
+    - None known
+
+- Test Enviroment Used
+    -login02.cselabs.umn.edu
